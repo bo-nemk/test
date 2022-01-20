@@ -1,0 +1,3 @@
+[submodule "pydetectability"]
+	path = pydetectability
+	url = https://github.com/bo-nemk/pydetectability
