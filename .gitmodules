@@ -4,3 +4,6 @@
 [submodule "masking_visualizer"]
 	path = masking_visualizer
 	url = https://github.com/bo-nemk/masking_visualizer
+[submodule "interesting_research/dotfiles"]
+	path = interesting_research/dotfiles
+	url = https://github.com/bo-nemk/dotfiles
