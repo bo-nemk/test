@@ -1,3 +1,6 @@
 [submodule "pydetectability"]
 	path = pydetectability
 	url = https://github.com/bo-nemk/pydetectability
+[submodule "masking_visualizer"]
+	path = masking_visualizer
+	url = https://github.com/bo-nemk/masking_visualizer
